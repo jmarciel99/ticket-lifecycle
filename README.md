@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="602" height="616" alt="image" src="https://github.com/user-attachments/assets/4facbb9f-ef55-41c6-9ad8-2809545edd51" />
 </p>
 <p>
-This is wher you can 
+This is the page where you can create a new ticket if there was any kind of problem you where having. 
 </p>
 <br />
 
