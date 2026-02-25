@@ -45,6 +45,6 @@ When a ticket is created depending on the severity it can be auto assigned. On t
 <img width="617" height="197" alt="image" src="https://github.com/user-attachments/assets/8b78d42c-9dc4-4ad9-b756-99f79f3870e0" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is what you will see when a ticket is open and in progress. Within the status section, you can also see if any notes were made by anyone.
 </p>
 <br />
