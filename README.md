@@ -48,3 +48,11 @@ When a ticket is created depending on the severity it can be auto assigned. On t
 This is what you will see when a ticket is open and in progress. Within the status section, you can also see if any notes were made by anyone.
 </p>
 <br />
+
+<p>
+<img width="722" height="333" alt="image" src="https://github.com/user-attachments/assets/91b166a5-9b77-4484-bafa-7d852512600e" />
+</p>
+<p>
+This is the pop up you will see when a ticket is closed out. After seeing this essentially all problems should have been resolved.  
+</p>
+<br />
